@@ -1,0 +1,47 @@
+.father {
+   width: 900px;
+   background: cadetblue;
+   margin: 0 auto;
+}
+
+.box {
+   width: 200px;
+   box-sizing: border-box;
+   margin-left: 5.3333%;
+   margin-right: 5.3333%;
+   margin-bottom: 5%;
+   border-radius: 5px;
+}
+
+.red-one {
+   background: coral;
+   color: rgb(71, 47, 47);
+}
+
+.blue-one {
+   background: rgb(98, 98, 248);
+   color: rgb(40, 5, 65);
+}
+
+.green-one {
+   background: #74f574;
+   color: rgb(3, 26, 3);
+}
+
+.padding-x-15 {
+   padding: 15px;
+}
+
+.flex {
+   display: flex;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+}
+
+h1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-bottom: 20px;
+   padding-top: 15px;
+}
