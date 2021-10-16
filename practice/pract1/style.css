@@ -1,0 +1,60 @@
+.father {
+   width: 600px;
+   height: 860px;
+   border: crimson solid 6px;
+   margin: 0 auto;
+   padding-left: 30px;
+   border-radius: 5px;
+}
+
+.box-green {
+   width: 540px;
+   height: 80px;
+   border: rgb(2, 184, 2) solid 6px;
+   border-radius: 5px;
+   border-style: ridge;
+   text-align: center;
+}
+
+.box-yellow {
+   width: 540px;
+   height: 80px;
+   border: rgb(226, 226, 23) solid 6px;
+   border-radius: 5px;
+   border-style: ridge;
+   text-align: center;
+}
+
+.box-pink {
+   width: 270px;
+   height: 80px;
+   border: pink solid 6px;
+   border-radius: 5px;
+   border-style: ridge;
+}
+
+img {
+   width: 79px;
+   height: auto;
+}
+
+.box-blue {
+   width: 440px;
+   height: 230px;
+   border: rgb(94, 203, 247) solid 6px;
+   border-radius: 5px;
+   border-style: ridge;
+}
+
+.box-li-blue {
+   width: 300px;
+   height: 40px;
+   border: rgb(47, 29, 207) solid 6px;
+   border-radius: 5px;
+   border-style: ridge;
+}
+
+.box-blue-padding {
+   padding-left: 5px;
+   padding-top: 10px;
+}

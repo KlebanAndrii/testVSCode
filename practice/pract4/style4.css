@@ -1,0 +1,51 @@
+.box {
+   width: 600px;
+   height: 400px;
+   background: rgb(204, 203, 203);
+   margin: 100px auto;
+   border: 2px solid rgb(139, 139, 139);
+   border-radius: 5px;
+}
+
+.one-a {
+   width: 594px;
+   height: 127px;
+   border: 3px solid white;
+   border-radius: 5px 5px 0px 0px;
+}
+
+p {
+   text-align: center;
+   position: relative;
+   top: 35%;
+}
+
+.two-b {
+   width: 400px;
+   height: 261px;
+   border: 3px solid white;
+   border-radius: 0px 0px 0px 5px;
+}
+
+.three-c {
+   width: 197px;
+   height: 261px;
+   border: 3px solid white;
+   border-radius: 0px 0px 5px 0px;
+}
+
+.flex {
+   display: flex;
+}
+
+.two-box {
+   width: 400;
+   height: 109px;
+   border-bottom: 3px solid white;
+}
+
+.mini-box{
+   width: 132px;
+   height: 128px;
+   border: 3px solid white;
+}
